@@ -40,7 +40,7 @@ tox==3.14.6
 translate==3.5.0
 translator==0.0.9
 tweepy==3.8.0
-urllib3==1.25.8
+urllib3==1.26.5
 virtualenv==20.0.17
 Werkzeug==1.0.1
 wrapt==1.11.2
